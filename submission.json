@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "qiaoxwang/dsc180a-m5",
+    "build-script": "python run.py"
+}
